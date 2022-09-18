@@ -3,6 +3,7 @@
 Debugging/Coding Embedded projects and There is a need to convert units from different bases?<br>
 Dont want to use the windows calculator again because it is too slow?<br>
 Want to convert the base units and still be on your coding file?<br>
+Need to add Binary values with Hex values easily?<br>
 
 This is a CMD Integrated Unit Base Converter.
 
