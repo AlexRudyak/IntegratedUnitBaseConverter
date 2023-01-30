@@ -33,8 +33,9 @@ Hexadecimal - 'h' or 'hex' or 'hexa' or 'hexadecimal' - Takes values 0-9, A-F<br
 Display a help message.
 
 Syntax:
->ucalc -h
-
+```
+ucalc -h
+```
 `-conv`<br>
 
 Convert Function.<br>
